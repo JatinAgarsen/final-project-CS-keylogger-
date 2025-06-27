@@ -1,4 +1,5 @@
 # final-project-CS-keylogger-
+
 🔐 Keylogger with Encrypted Data Exfiltration
 This project demonstrates the implementation of a Python-based keylogger that logs keystrokes, encrypts the data using symmetric encryption (Fernet), and exfiltrates it to a remote Flask-based server over HTTP POST requests. It includes a kill switch, persistence logic, and encrypted log storage.
 
